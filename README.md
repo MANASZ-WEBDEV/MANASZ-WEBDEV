@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <!-- 🔁 REPLACE: Update the URL below with your actual portfolio domain -->
-  <a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
+  <a href="https://whymanas.tech" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.leetcode.com/manas-25" target="_blank">
