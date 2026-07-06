@@ -52,7 +52,7 @@
 
 ### 🧠 DSA Recall — AI-Powered Flashcard App
 <div align="left">
-  <a href="https://dsa-revision-six.vercel.app" target="_blank">
+  <a href="https://dsarecall.whymanas.tech" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-58A6FF?style=for-the-badge"/>
   </a>
   <a href="https://github.com/MANASZ-WEBDEV/DSA-Revision" target="_blank">
@@ -68,7 +68,7 @@
 ### 🛒 LalaKirana — Retail Management PWA
 <div align="left">
   <!-- 🔁 REPLACE: Add your live deployment URL below once hosted -->
-  <a href="https://YOUR-LALAKIRANA-URL.com" target="_blank">
+  <a href="https://lalakirana.whymanas.tech" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-006763?style=for-the-badge"/>
   </a>
   <a href="https://github.com/MANASZ-WEBDEV/LalaKirana-Implementation" target="_blank">
