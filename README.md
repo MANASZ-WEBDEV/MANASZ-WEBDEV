@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Manas+Rajani+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Building+real+products%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <h3>3rd-year B.Tech CSE student passionate about full-stack development and problem-solving.<br/>Shipping production-ready apps with React 19, TypeScript, Node.js & PostgreSQL.</h3>
+  <h3>Final-year B.Tech CSE student passionate about full-stack development and problem-solving. Shipping production-ready apps with React 19, TypeScript, Node.js & PostgreSQL.</h3>
 
   <br/>
 
@@ -40,7 +40,7 @@
 - 🔭 Currently building: **[DSA Recall](https://dsarecall.whymanas.tech)** — AI-powered spaced repetition for interview prep
 - 🌱 Currently learning: **System Design · Advanced DSA · PostgreSQL · Docker**
 - 👯 Looking to collaborate on: **Open-source full-stack projects**
-- 🤝 Looking for: **SDE Internship opportunities (2026–27)**
+- 🤝 Looking for: **Full-time SDE opportunities — final year, graduating 2027**
 - 💬 Ask me about: **React · TypeScript · Node.js · REST APIs · Supabase · Spaced Repetition**
 - 📫 Reach me: **manasrajanidy89@gmail.com**
 - ⚡ Fun fact: *I like philosophy — and I debug better at 2 AM*
