@@ -40,7 +40,7 @@
 - 🔭 Currently building: **[DSA Recall](https://dsarecall.whymanas.tech)** — AI-powered spaced repetition for interview prep
 - 🌱 Currently learning: **System Design · Advanced DSA · PostgreSQL · Docker**
 - 👯 Looking to collaborate on: **Open-source full-stack projects**
-- 🤝 Looking for: **SDE Internship opportunities (2025–26)**
+- 🤝 Looking for: **SDE Internship opportunities (2026–27)**
 - 💬 Ask me about: **React · TypeScript · Node.js · REST APIs · Supabase · Spaced Repetition**
 - 📫 Reach me: **manasrajanidy89@gmail.com**
 - ⚡ Fun fact: *I like philosophy — and I debug better at 2 AM*
