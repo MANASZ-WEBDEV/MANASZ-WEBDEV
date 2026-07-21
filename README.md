@@ -30,7 +30,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manasz-webdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy-max.vercel.app/?username=MANASZ-WEBDEV&theme=tokyonight&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
